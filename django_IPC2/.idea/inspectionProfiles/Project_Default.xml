@@ -5,8 +5,10 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="main.self" />
+          <option value="PyQt5.uic" />
         </list>
       </option>
     </inspection_tool>
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
   </profile>
 </component>
