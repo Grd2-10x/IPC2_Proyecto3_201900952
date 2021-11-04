@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+	border-radius: 10px;
+	font-family: sans-serif;
+}
+
+ body{
+
+	position: relative;
+	width: 100%;
+	background-color: #e5e8eb;
+  }
+
+nav{
+	margin: 10px 30px;
+  background-color: #d60fbd;
+   height: 100px;
+   padding: 10px;
+}
+
+#title{
+	position: absolute;
+	left : 30px;
+	top: 50px;
+	border-radius: 100%;
+	font-size: 20px;
+}
+
+.redes{
+	position: absolute;
+	top: 30px;
+	right: 30px;
+}
+
+.redes:hover{
+  background-color: white;
+}
+
+#icon1{
+
+	top:30px;
+	right:150px; ;
+}
+#icon2{
+
+	top:30px;
+	right:100px ;
+}
+#icon3{
+
+	top:30px;
+	right:50px ;
+}
+
+img{
+	float:left;
+
+	width: 50px;
+	height: 50px;
+
+}
+
+
+section{
+  padding: 20px;
+  margin: 10px 30px;
+  height: 300px;
+  background-color: #46504687;
+}
+
+label{
+   font-style: italic;
+   font-size: 16px;
+	position: relative;
+	margin: 20px 20px;
+}
+
+#lb1{
+
+	right: 150px;
+}
+#lb2{
+
+	right: 30px;
+}
+#lb3{
+
+	left: 120px;
+
+}
+#lb4{
+
+	right: 110px;
+}
+#lb5{
+
+	right: 80px;
+}
+#lb6{
+
+	left: 90px;
+
+}
+
+input{
+	position: relative;
+   margin: 20px 20px;
+}
+
+#fecha{
+	right: 80px;
+}
+
+#Gender{
+	position: relative;
+	right: 50px;
+}
+
+#con{
+	left: 90px;
+}
+
+#boton{
+	padding: 15px;
+	width: 100px
+
+}
+
+
+footer{
+margin: 10px 30px;
+padding: 10px 5px;
+    top: 30px;
+    height: 50px;
+
+
+   background-color: #8a1149de;
+}
+
+footer h3{
+	margin-top:10px;
+text-align: center;
+
+}
+
